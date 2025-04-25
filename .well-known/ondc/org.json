@@ -1,0 +1,9 @@
+{
+    "subscriber_id": "ondc-msn.onrender.com",
+    "unique_key_id": "key1",
+    "signing_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp6L9uWjl9habI5ZbpjK8\r\nD/2weyiI8y8mOXux0QizQM3WCeDXEiHU7BnapCmNHLnRfl/B/DklLL5ndgSCG3Gn\r\n6KBO5iNsyEq4J9yLzHMw+X+6XrQz2mzjeAazDGCSE2u7vwQaVYC8hTLAv7M2wE1n\r\ny26uso5xpDBhsX+K4OLAksqIvsUZz9rND2PF0/XJdITpSc+MadBW9zQUuY3Xnes2\r\nKTL4DH9SitvgYM69qAdimAG6r5x1GbUy83TbAVs0v6J8TD3C2PMiJw7GA4Eo+b86\r\nlvHfMalVmcAA/eUJKcohTKM5UeORP+sPOPews3MrEygp9vALn6NTWcvDwwClRdSs\r\nywIDAQAB",
+    "valid_from": "2025-04-25T00:00:00Z",
+    "valid_until": "2026-04-25T00:00:00Z",
+    "key_algorithm": "RSA256"
+  }
+  
