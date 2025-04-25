@@ -1,6 +1,11 @@
 const express = require('express');
 const app = express();
 
+require("dotenv").config();
+
+app.use(express.json());
+app.use("/dev", require("./routes/dev-sign"));
+
 // Use the PORT environment variable provided by Render or default to 3000
 const PORT = process.env.PORT || 3000;
 

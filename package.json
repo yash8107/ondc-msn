@@ -11,7 +11,12 @@
   "type": "commonjs",
   "description": "",
   "dependencies": {
+    "base64-js": "^1.5.1",
+    "blakejs": "^1.2.1",
     "body-parser": "^2.2.0",
-    "express": "^5.1.0"
+    "bs64": "^0.1.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "tweetnacl": "^1.0.3"
   }
 }
