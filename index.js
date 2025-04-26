@@ -74,6 +74,7 @@ const sharedKey = crypto.diffieHellman({
 const app = express();
 app.use(bodyParser.json()); // Middleware to parse JSON request bodies
 
+app.use("/dev", require("./routes/dev-sign"));
 // Route for handling subscription requests
 app.post('/on_subscribe', function (req, res) {
   const { challenge } = req.body; // Extract the 'challenge' property from the request body
